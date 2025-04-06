@@ -2,6 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+/[Aa]ssets/StreamingAssets/google-services-desktop.json
+/[Aa]ssets/FirebaseConfigs/
+.vsconfig
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
